@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Prince Gupta</h1>
+  <h1 align="center">Hi there! 👋 I'm Prince Gupta</h1>
 
 <h3 align="center">A pre-final year CSE Undergrad at SRIST Jabalpur, aspiring Software Engineer, and Programming enthusiast.</h3>
 
@@ -49,5 +49,5 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
