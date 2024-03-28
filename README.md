@@ -12,8 +12,6 @@
 
 - 📫 How to reach me: **pgupta28349@gmail.com**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1rQEXyxm_lV4pfcMCLv1WJTY6NijacjmJhu2gdZ4vFP8/edit?usp=sharing)
-
 - ⚡ Fun fact: **I think I'm funny 😄**
 
 <h3 align="left">Connect with me:</h3>
