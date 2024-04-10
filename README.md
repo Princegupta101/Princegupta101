@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princegupta101&label=Profile%20views&color=0e75b6&style=flat" alt="princegupta101" /> </p>
 
+- 🔭 I’m currently working on [WanderWise-Travel-Planner-AI](https://github.com/Princegupta101/WanderWise-Travel-Planner-AI)
+
 - 🌱 I’m currently learning **Next.js And TypeScript**
 
 - 👨‍💻 All of my projects are available at [portfolio-lemon-zeta-11.vercel.app](https://portfolio-lemon-zeta-11.vercel.app/)
