@@ -1,16 +1,16 @@
 <!--- Body Begins -->
 
 <!-- Center-aligned header -->
-
+<div align="center">
   <h1 align="center">Hi there! 👋 I'm Prince Gupta</h1>
-<!-- Links to social profiles -->
+  <!-- Links to social profiles -->
   <p align="center">
     <a href="https://linkedin.com/in/prince-gupta-0201b824b">LinkedIn</a> - 
     <a href="https://portfolio-lemon-zeta-11.vercel.app/">Portfolio</a> -
     <a href="https://www.leetcode.com/pgupta28349">Leetcode</a>
   </p>
-<!-- Divider line -->
------------------------------------------------------------
+</div>
+
 
 <!-- Brief introduction -->
 <h3 align="center">A pre-final year CSE Undergrad at SRIST Jabalpur, aspiring Software Engineer, and Programming enthusiast.</h3>
@@ -31,8 +31,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=princegupta101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
-
-## 👨🏻‍💻 About Me
 
 <!-- List of personal information -->
 - 🔭 I’m currently working on [WanderWise-Travel-Planner-AI](https://github.com/Princegupta101/WanderWise-Travel-Planner-AI)
@@ -86,13 +84,11 @@
   </a>
 </p>
 
-<details>
   <summary><b>⚙️ GitHub Analytics</b></summary>
   <!-- Links to GitHub analytics images -->
   <a href="https://github.com/Princegupta101">
     <!-- Repositories per language -->
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princegupta101&layout=donut" alt="Prince Gupta GitHub stats" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=dark" alt="Prince Gupta GitHub stats" />
     <!-- GitHub stats -->
-    <img height="155em" src="https://raw.githubusercontent.com/princegupta101/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Prince Gupta GitHub stats" />
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="Prince Gupta GitHub stats" />
   </a>
-</details>
