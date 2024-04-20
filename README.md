@@ -86,9 +86,9 @@
 
  ## ⚙️ GitHub Analytics
   <!-- Links to GitHub analytics images -->
-  <a align="center" href="https://github.com/Princegupta101">
+  <div align="center" href="https://github.com/Princegupta101">
     <!-- Repositories per language -->
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=dark" alt="Prince Gupta GitHub stats" />
+    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=dark" alt="Prince Gupta GitHub stats" />
     <!-- GitHub stats -->
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="Prince Gupta GitHub stats" />
-  </a>
+    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="Prince Gupta GitHub stats" />
+  </div>
