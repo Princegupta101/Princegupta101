@@ -34,8 +34,11 @@
 
 <!-- List of personal information -->
 - 🔭 I’m currently working on [WanderWise-Travel-Planner-AI](https://github.com/Princegupta101/WanderWise-Travel-Planner-AI)
+  
 - 🌱 I’m currently learning **Next.js And TypeScript**
+  
 - 📫 How to reach me: **pgupta28349@gmail.com**
+  
 - ⚡ Fun fact: **I think I'm funny 😄**
 
 ## 💻 Tech Stack
@@ -93,8 +96,8 @@
   <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="Prince Gupta GitHub stats" />
   <!-- Histogram of Commits -->
   <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupta101&theme=github_dark" alt="Histogram of Commits" /></br>
- <div align="center">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark"  alt="Graph of Commits" />
+<div style="text-align: center; padding-top: 20px;">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark" alt="Graph of Commits" />
 </div>
 </div>
 
