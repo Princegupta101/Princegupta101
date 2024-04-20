@@ -84,16 +84,16 @@
   </a>
 </p>
 
- ## ⚙️ GitHub Analytics
-  <!-- Links to GitHub analytics images -->
-  <div align="center" href="https://github.com/Princegupta101">
-    <!-- Graph of Commits -->
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark"  alt="Graph of Commits" />
-    <!-- Repositories per language -->
-    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=dark" alt="Prince Gupta GitHub stats" />
-    <!-- GitHub stats -->
-    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="Prince Gupta GitHub stats" />
-    <!-- Histogram of Commits -->
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupta101&theme=github_dark" alt="Histogram of Commits" />
+## ⚙️ GitHub Analytics
+<!-- Links to GitHub analytics images -->
+<div align="center">
+  <!-- Repositories per language -->
+  <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=dark" alt="Prince Gupta GitHub stats" />
+  <!-- GitHub stats -->
+  <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="Prince Gupta GitHub stats" />
+  <!-- Histogram of Commits -->
+  <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupta101&theme=github_dark" alt="Histogram of Commits" />
+  <!-- Graph of Commits -->
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark"  alt="Graph of Commits" />
+</div>
 
-  </div>
