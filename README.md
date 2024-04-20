@@ -84,9 +84,9 @@
   </a>
 </p>
 
-  <summary><b>⚙️ GitHub Analytics</b></summary>
+ ## ⚙️ GitHub Analytics
   <!-- Links to GitHub analytics images -->
-  <a href="https://github.com/Princegupta101">
+  <a align="center" href="https://github.com/Princegupta101">
     <!-- Repositories per language -->
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=dark" alt="Prince Gupta GitHub stats" />
     <!-- GitHub stats -->
