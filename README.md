@@ -33,7 +33,7 @@
 </p>
 
 <!-- List of personal information -->
-- 🔭 I’m currently working on [WanderWise-Travel-Planner-AI](https://github.com/Princegupta101/WanderWise-Travel-Planner-AI)
+<!--- 🔭 I’m currently working on [WanderWise-Travel-Planner-AI](https://github.com/Princegupta101/WanderWise-Travel-Planner-AI) -->
   
 - 🌱 I’m currently learning **Next.js And TypeScript**
   
