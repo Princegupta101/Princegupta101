@@ -9,8 +9,12 @@
     <a href="https://portfolio-lemon-zeta-11.vercel.app/">Portfolio</a> -
     <a href="https://www.leetcode.com/pgupta28349">Leetcode</a>
   </p>
+  
 </div>
-
+<!-- Profile views counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=princegupta101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
 
 <!-- Brief introduction -->
 <h3 align="center">A pre-final year CSE Undergrad at SRIST Jabalpur, aspiring Software Engineer, and Programming enthusiast.</h3>
@@ -27,19 +31,21 @@
   </a>
 </h1>
 
-<!-- Profile views counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=princegupta101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
 
 <!-- List of personal information -->
 <!--- 🔭 I’m currently working on [WanderWise-Travel-Planner-AI](https://github.com/Princegupta101/WanderWise-Travel-Planner-AI) -->
   
-- 🌱 I’m currently learning **Next.js And TypeScript**
+- 🌱 Currently, I'm learning Next.js and TypeScript to build robust, scalable web applications.
+  
+- 👯 I’m looking to collaborate on creative Next.js projects. Ready to bring unique ideas to life through code and design!
+
+- 💬 Ask me about building dynamic Full Stack applications. From MERN to Next.js, I can guide you through the entire process of creating robust web solutions!
+  
+- 🎓 I believe in continuous learning and growth, always eager to explore new technologies and expand my knowledge base.
+  
+- ⚡ Fun fact: As a Full Stack Stack developer, my favorite debugging tool is not a magnifying glass but a keen sense of curiosity
   
 - 📫 How to reach me: **pgupta28349@gmail.com**
-  
-- ⚡ Fun fact: **I think I'm funny 😄**
 
 ## 💻 Tech Stack
 
@@ -100,4 +106,19 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark" alt="Graph of Commits" />
 </div>
 </div>
+
+## Top Repositories
+
+<p align="left">
+  <a href="https://github.com/Princegupta101/Learning-Management-System">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Learning-Management-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Learning Management System">
+  </a>
+  <a href="https://github.com/Princegupta101/Portfolio">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio">
+  </a>
+  <a href="https://github.com/Princegupta101/Live-Code-Share">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Live-Code-Share&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Live Code Share">
+  </a>
+</p>
+
 
