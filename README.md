@@ -11,10 +11,6 @@
   </p>
   
 </div>
-<!-- Profile views counter -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=princegupta101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
 
 <!-- Brief introduction -->
 <h3 align="center">A pre-final year CSE Undergrad at SRIST Jabalpur, aspiring Software Engineer, and Programming enthusiast.</h3>
@@ -34,6 +30,11 @@
 
 <!-- List of personal information -->
 <!--- 🔭 I’m currently working on [WanderWise-Travel-Planner-AI](https://github.com/Princegupta101/WanderWise-Travel-Planner-AI) -->
+
+<!-- Profile views counter -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=princegupta101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
   
 - 🌱 Currently, I'm learning Next.js and TypeScript to build robust, scalable web applications.
   
@@ -93,6 +94,20 @@
   </a>
 </p>
 
+## Top Repositories
+
+<p align="left">
+  <a href="https://github.com/Princegupta101/Learning-Management-System">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Learning-Management-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Learning Management System">
+  </a>
+    <a href="https://github.com/Princegupta101/Live-Code-Share">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Live-Code-Share&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Live Code Share">
+  </a>
+  <a href="https://github.com/Princegupta101/Portfolio">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio">
+  </a>
+</p>
+
 ## ⚙️ GitHub Analytics
 <!-- Links to GitHub analytics images -->
 <div align="center">
@@ -106,19 +121,3 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark" alt="Graph of Commits" />
 </div>
 </div>
-
-## Top Repositories
-
-<p align="left">
-  <a href="https://github.com/Princegupta101/Learning-Management-System">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Learning-Management-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Learning Management System">
-  </a>
-  <a href="https://github.com/Princegupta101/Portfolio">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio">
-  </a>
-  <a href="https://github.com/Princegupta101/Live-Code-Share">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Live-Code-Share&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Live Code Share">
-  </a>
-</p>
-
-
