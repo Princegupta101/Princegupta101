@@ -97,13 +97,13 @@
   <summary><b>Top Repositories</b></summary><br>
    <p align="left">
     <!-- Learning Management System -->
-    <a href="https://github.com/Princegupta101/Learning-Management-System"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Learning-Management-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Learning Management System">
+    <a href="https://github.com/Princegupta101/Learning-Management-System"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Learning-Management-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Learning Management System">
     </a>
     <!-- Live Code Share -->
-    <a href="https://github.com/Princegupta101/Live-Code-Share"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Live-Code-Share&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Live Code Share">
+    <a href="https://github.com/Princegupta101/Live-Code-Share"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Live-Code-Share&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Live Code Share">
     </a>
     <!-- Portfolio -->
-    <a href="https://github.com/Princegupta101/Portfolio"> <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio">
+    <a href="https://github.com/Princegupta101/Portfolio"> <img width="250" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Princegupta101&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="Portfolio">
     </a>
   </p>
 </details>
