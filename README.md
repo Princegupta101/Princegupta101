@@ -18,9 +18,8 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
 </p>
-
 <!-- List of personal information -->
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="100px" max-width="100px" width="100px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="100px" max-width="250px" width="250px" align="right"> 
 
 - 🌱 Mastering Next.js & TypeScript for robust web apps.
 - 👯 Collaborate on imaginative Next.js projects!
@@ -35,66 +34,64 @@
  <summary><b>🛠Tech Stack</b></summary><br>
 
 <!-- Languages -->
-<p><b>Languages:</b></p>
-<p align="center">
-  <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
-  <!-- Java --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <!-- C --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" /> 
-  <!-- C++ --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> 
-  <!-- TypeScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /> 
-  <!-- Python --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <!-- MongoDB --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" /> 
-  <!-- MySQL --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /> 
-  <!-- HTML5 --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" /> 
-  <!-- CSS --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" /> 
+<p><b>Languages:</b>
+  <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> 
+  <!-- Java --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java" />
+  <!-- C --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" /> 
+  <!-- C++ --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /> 
+  <!-- TypeScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" /> 
+  <!-- Python --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
+  <!-- MongoDB --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" /> 
+  <!-- MySQL --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" /> 
+  <!-- HTML5 --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" /> 
+  <!-- CSS --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" /> 
 </p>
 
 <!-- Frameworks and Libraries -->
 <p><b>Frameworks and Libraries:</b>
-  <!-- Next.js --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="20"/> 
-  <!-- React --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="20" /> 
-  <!-- Redux --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="20" /> 
-  <!-- Express.js --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="20" /> 
-  <!-- Tailwind CSS --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="20" /> 
-  <!-- npm --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="20" />
-  <!-- Numpy --><img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat" alt="Numpy" width="30" height="20" />
-  <!-- Pandas --><img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat" alt="Pandas" width="30" height="20" />
-  <!-- Sklearn --><img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat" alt="Sklearn" width="30" height="20" />
+  <!-- Next.js --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/> 
+  <!-- React --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" /> 
+  <!-- Redux --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" /> 
+  <!-- Express.js --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30" /> 
+  <!-- Tailwind CSS --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30" /> 
+  <!-- npm --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30" />
+  <!-- Numpy --><img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat" alt="Numpy" width="30" height="30" />
+  <!-- Pandas --><img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat" alt="Pandas" width="30" height="30" />
+  <!-- Sklearn --><img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat" alt="Sklearn" width="30" height="30" />
 </p>
 
 <!-- Tools and Platforms -->
-<p><b>Tools and Platforms:</b></p>
-<p align="center">
-  <!-- Git --> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /> 
-  <!-- GitHub --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
-  <!-- Cloudflare --><img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat" alt="Cloudflare" width="40" height="40" />
-  <!-- Visual Studio Code --> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat" alt="Visual Studio Code" width="40" height="40" />
+<p><b>Tools and Platforms:</b>
+  <!-- Git --> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" /> 
+  <!-- GitHub --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
+  <!-- Cloudflare --><img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat" alt="Cloudflare" width="30" height="30" />
+  <!-- Visual Studio Code --> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat" alt="Visual Studio Code" width="30" height="30" />
 </p>
 
 <!-- Operating Systems -->
-<p><b>Operating Systems:</b></p>
-<p align="center">
-  <!-- Windows --> <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat" alt="Windows" width="40" height="40" />
-  <!-- Linux --><img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat" alt="Linux" width="40" height="40" />
+<p><b>Operating Systems:</b>
+  <!-- Windows --> <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat" alt="Windows" width="30" height="30" />
+  <!-- Linux --><img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat" alt="Linux" width="30" height="30" />
 </p>
+
 </details> 
 
 <!-- GitHub Analytics -->
-<details>
   <summary><b>⚙️ GitHub Analytics</b></summary><br>
   <!-- Links to GitHub analytics images -->
   <div align="center">
       <!-- Graph of Commits -->
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark" alt="Graph of Commits" />
+    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark" alt="Graph of Commits" />
     <!-- Repositories per language -->
-    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceGupta101&theme=github_dark" alt="Top Languages" />
     <!-- GitHub stats -->
-    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=github_dark&hide_rank=true" alt="GitHub Stats" />
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrinceGupta101&theme=github_dark" alt="GitHub Stats" />
+        <!-- Repositories per language -->
+    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrinceGupta101&theme=github_dark" alt="Most Commit Languages" />
     <!-- Histogram of Commits -->
     <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupta101&theme=github_dark" alt="Histogram of Commits" /></br>
   
   </div>
-</details>
 
 
 <!-- Top Repositories -->
