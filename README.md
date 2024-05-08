@@ -22,13 +22,13 @@
 
 
 <!-- List of personal information -->
-<!--- 🔭 I’m currently working on [WanderWise-Travel-Planner-AI](https://github.com/Princegupta101/WanderWise-Travel-Planner-AI) -->
-🌱 Mastering Next.js & TypeScript for robust web apps.
-👯 Collaborate on imaginative Next.js projects!
-💬 Ask about dynamic Full Stack apps—MERN to Next.js.
-🎓 Committed to continuous learning & tech exploration.
-⚡ Fun fact: Debugging with curiosity, not just tools.
-📫 Reach me: pgupta28349@gmail.com
+👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" min-width="300px" max-width="300px" width="350px" align="right"> 
+🌱 Mastering Next.js & TypeScript for robust web apps.<br>
+👯 Collaborate on imaginative Next.js projects!<br>
+💬 Ask about dynamic Full Stack apps—MERN to Next.js.<br>
+🎓 Committed to continuous learning & tech exploration.<br>
+⚡ Fun fact: Debugging with curiosity, not just tools.<br>
+📫 Reach me: pgupta28349@gmail.com<br>
 
 <!-- Icons representing the tech stack -->
 <details> 
