@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
 </p>
 <!-- List of personal information -->
-👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" width="280px" height="210px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" width="280px" height="200px" align="right"> 
 
 - 🌱 Mastering Next.js & TypeScript for robust web apps.
 - 👯 Collaborate on imaginative Next.js projects!
@@ -52,7 +52,8 @@
   <!-- Next.js --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/> 
   <!-- React --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" /> 
   <!-- Redux --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" /> 
-  <!-- Express.js --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30" /> 
+  <!-- Express.js --><img src="https://img.shields.io/badge/-Express.js-F09437?logo=Express.js&logoColor=white&style=flat" alt="Express.js" width="50" height="30" />
+ <!-- Node.js --> <img src="https://img.shields.io/badge/-Node.js-4679A4?logo=Node.js&logoColor=orange&style=flat" alt="Node.js" width="50" height="30" />
   <!-- Tailwind CSS --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30" /> 
   <!-- npm --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30" />
   <!-- Numpy --><img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat" alt="Numpy" width="50" height="30" />
