@@ -2,9 +2,9 @@
 
 <!-- Center-aligned header -->
 <div align="center">
-  <h1 align="center">Hi there! 👋 I'm Prince Gupta</h1>
+  <h1>Hi there! 👋 I'm Prince Gupta</h1>
   <!-- Links to social profiles -->
-  <p align="center">
+  <p>
     <a href="https://linkedin.com/in/prince-gupta-0201b824b">LinkedIn</a> - 
     <a href="https://portfolio-lemon-zeta-11.vercel.app/">Portfolio</a> -
     <a href="https://www.leetcode.com/pgupta28349">Leetcode</a>
@@ -19,16 +19,16 @@
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
 </p>
 
-
-
 <!-- List of personal information -->
-👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" min-width="300px" max-width="300px" width="350px" align="right"> 
-🌱 Mastering Next.js & TypeScript for robust web apps.<br>
-👯 Collaborate on imaginative Next.js projects!<br>
-💬 Ask about dynamic Full Stack apps—MERN to Next.js.<br>
-🎓 Committed to continuous learning & tech exploration.<br>
-⚡ Fun fact: Debugging with curiosity, not just tools.<br>
-📫 Reach me: pgupta28349@gmail.com<br>
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="100px" max-width="100px" width="100px" align="right"> 
+
+- 🌱 Mastering Next.js & TypeScript for robust web apps.
+- 👯 Collaborate on imaginative Next.js projects!
+- 💬 Ask about dynamic Full Stack apps—MERN to Next.js.
+- 🎓 Committed to continuous learning & tech exploration.
+- ⚡ Fun fact: Debugging with curiosity, not just tools.
+- 📫 Reach me: **pgupta28349@gmail.com**
+ 
 
 <!-- Icons representing the tech stack -->
 <details> 
@@ -50,17 +50,16 @@
 </p>
 
 <!-- Frameworks and Libraries -->
-<p><b>Frameworks and Libraries:</b></p>
-<p align="center">
-  <!-- Next.js --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
-  <!-- React --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /> 
-  <!-- Redux --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" /> 
-  <!-- Express.js --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" /> 
-  <!-- Tailwind CSS --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /> 
-  <!-- npm --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" />
-  <!-- Numpy --><img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat" alt="Numpy" width="40" height="40" />
-  <!-- Pandas --><img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat" alt="Pandas" width="40" height="40" />
-  <!-- Sklearn --><img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat" alt="Sklearn" width="40" height="40" />
+<p><b>Frameworks and Libraries:</b>
+  <!-- Next.js --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="20"/> 
+  <!-- React --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="20" /> 
+  <!-- Redux --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="20" /> 
+  <!-- Express.js --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="20" /> 
+  <!-- Tailwind CSS --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="20" /> 
+  <!-- npm --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="20" />
+  <!-- Numpy --><img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat" alt="Numpy" width="30" height="20" />
+  <!-- Pandas --><img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat" alt="Pandas" width="30" height="20" />
+  <!-- Sklearn --><img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat" alt="Sklearn" width="30" height="20" />
 </p>
 
 <!-- Tools and Platforms -->
@@ -81,20 +80,21 @@
 </details> 
 
 <!-- GitHub Analytics -->
+<details>
   <summary><b>⚙️ GitHub Analytics</b></summary><br>
   <!-- Links to GitHub analytics images -->
   <div align="center">
+      <!-- Graph of Commits -->
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark" alt="Graph of Commits" />
     <!-- Repositories per language -->
-    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=dark" alt="Prince Gupta GitHub stats" />
+    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=princegupta101&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Top Languages" />
     <!-- GitHub stats -->
-    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=dark&hide_rank=true" alt="Prince Gupta GitHub stats" />
+    <img align="center" height="155em" src="https://github-readme-stats.vercel.app/api?username=princegupta101&show_icons=true&locale=en&theme=github_dark&hide_rank=true" alt="GitHub Stats" />
     <!-- Histogram of Commits -->
     <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupta101&theme=github_dark" alt="Histogram of Commits" /></br>
-    <!-- Graph of Commits -->
-    <div style="text-align: center; padding-top: 20px;">
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark" alt="Graph of Commits" />
-    </div>
+  
   </div>
+</details>
 
 
 <!-- Top Repositories -->
@@ -118,4 +118,3 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=princegupta101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 </p>
-  
