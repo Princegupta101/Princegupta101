@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
 </p>
 <!-- List of personal information -->
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="100px" max-width="250px" width="250px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="100px" max-width="250px" width="350px" align="right"> 
 
 - 🌱 Mastering Next.js & TypeScript for robust web apps.
 - 👯 Collaborate on imaginative Next.js projects!
@@ -34,7 +34,7 @@
  <summary><b>🛠Tech Stack</b></summary><br>
 
 <!-- Languages -->
-<p><b>Languages:</b>
+<p align="center"><b>Languages:</b>
   <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> 
   <!-- Java --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java" />
   <!-- C --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" /> 
@@ -48,30 +48,30 @@
 </p>
 
 <!-- Frameworks and Libraries -->
-<p><b>Frameworks and Libraries:</b>
+<p align="center"><b>Frameworks and Libraries:</b>
   <!-- Next.js --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/> 
   <!-- React --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" /> 
   <!-- Redux --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" /> 
   <!-- Express.js --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="30" height="30" /> 
   <!-- Tailwind CSS --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30" /> 
   <!-- npm --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30" />
-  <!-- Numpy --><img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat" alt="Numpy" width="30" height="30" />
-  <!-- Pandas --><img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat" alt="Pandas" width="30" height="30" />
-  <!-- Sklearn --><img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat" alt="Sklearn" width="30" height="30" />
+  <!-- Numpy --><img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat" alt="Numpy" width="50" height="30" />
+  <!-- Pandas --><img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat" alt="Pandas" width="50" height="30" />
+  <!-- Sklearn --><img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat" alt="Sklearn" width="50" height="30" />
 </p>
 
 <!-- Tools and Platforms -->
-<p><b>Tools and Platforms:</b>
+<p align="center"><b>Tools and Platforms:</b>
   <!-- Git --> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" /> 
   <!-- GitHub --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
-  <!-- Cloudflare --><img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat" alt="Cloudflare" width="30" height="30" />
-  <!-- Visual Studio Code --> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat" alt="Visual Studio Code" width="30" height="30" />
+  <!-- Cloudflare --><img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat" alt="Cloudflare" width="50" height="30" />
+  <!-- Visual Studio Code --> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat" alt="Visual Studio Code" width="50" height="30" />
 </p>
 
 <!-- Operating Systems -->
 <p><b>Operating Systems:</b>
-  <!-- Windows --> <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat" alt="Windows" width="30" height="30" />
-  <!-- Linux --><img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat" alt="Linux" width="30" height="30" />
+  <!-- Windows --> <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat" alt="Windows" width="50" height="30" />
+  <!-- Linux --><img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat" alt="Linux" width="30" height="50" />
 </p>
 
 </details> 
