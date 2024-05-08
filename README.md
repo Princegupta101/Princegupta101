@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
 </p>
 <!-- List of personal information -->
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="100px" max-width="250px" width="350px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" width="300px" height="300px" align="right"> 
 
 - 🌱 Mastering Next.js & TypeScript for robust web apps.
 - 👯 Collaborate on imaginative Next.js projects!
@@ -34,7 +34,7 @@
  <summary><b>🛠Tech Stack</b></summary><br>
 
 <!-- Languages -->
-<p align="center"><b>Languages:</b>
+<p style="display: flex; justify-content: center;"><b>Languages:</b>
   <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> 
   <!-- Java --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java" />
   <!-- C --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" /> 
@@ -48,7 +48,7 @@
 </p>
 
 <!-- Frameworks and Libraries -->
-<p align="center"><b>Frameworks and Libraries:</b>
+<p style="display: flex; justify-content: center;"><b>Frameworks and Libraries:</b>
   <!-- Next.js --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/> 
   <!-- React --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" /> 
   <!-- Redux --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" /> 
@@ -61,7 +61,7 @@
 </p>
 
 <!-- Tools and Platforms -->
-<p align="center"><b>Tools and Platforms:</b>
+<p style="display: flex; justify-content: center;"><b>Tools and Platforms:</b>
   <!-- Git --> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" /> 
   <!-- GitHub --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
   <!-- Cloudflare --><img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat" alt="Cloudflare" width="50" height="30" />
@@ -69,7 +69,7 @@
 </p>
 
 <!-- Operating Systems -->
-<p><b>Operating Systems:</b>
+<p style="display: flex; justify-content: center;"><b>Operating Systems:</b>
   <!-- Windows --> <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat" alt="Windows" width="50" height="30" />
   <!-- Linux --><img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat" alt="Linux" width="30" height="50" />
 </p>
@@ -77,21 +77,18 @@
 </details> 
 
 <!-- GitHub Analytics -->
-  <summary><b>⚙️ GitHub Analytics</b></summary><br>
-  <!-- Links to GitHub analytics images -->
-  <div align="center">
-      <!-- Graph of Commits -->
-    <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark" alt="Graph of Commits" />
+<summary><b>⚙️ GitHub Analytics</b></summary><br>
+  <!-- Graph of Commits -->
+  <img align="center" height="155em"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princegupta101&theme=github_dark" alt="Graph of Commits" />
+  <!-- Repositories per language -->
+  <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceGupta101&theme=github_dark" alt="Top Languages" />
+  <!-- GitHub stats -->
+  <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrinceGupta101&theme=github_dark" alt="GitHub Stats" />
     <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrinceGupta101&theme=github_dark" alt="Top Languages" />
-    <!-- GitHub stats -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrinceGupta101&theme=github_dark" alt="GitHub Stats" />
-        <!-- Repositories per language -->
-    <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrinceGupta101&theme=github_dark" alt="Most Commit Languages" />
-    <!-- Histogram of Commits -->
-    <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupta101&theme=github_dark" alt="Histogram of Commits" /></br>
-  
-  </div>
+  <img align="center" height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrinceGupta101&theme=github_dark" alt="Most Commit Languages" />
+  <!-- Histogram of Commits -->
+  <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupta101&theme=github_dark" alt="Histogram of Commits" /></br>
+
 
 
 <!-- Top Repositories -->
