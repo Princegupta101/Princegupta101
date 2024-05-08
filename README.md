@@ -19,7 +19,7 @@
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
 </p>
 <!-- List of personal information -->
-👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" width="280px" height="220px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" width="280px" height="210px" align="right"> 
 
 - 🌱 Mastering Next.js & TypeScript for robust web apps.
 - 👯 Collaborate on imaginative Next.js projects!
@@ -71,7 +71,7 @@
 <!-- Operating Systems -->
 <p style="display: flex; justify-content: center;"><b>Operating Systems:</b>
   <!-- Windows --> <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat" alt="Windows" width="50" height="30" />
-  <!-- Linux --><img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat" alt="Linux" width="30" height="50" />
+  <!-- Linux --><img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat" alt="Linux" width="50" height="30" />
 </p>
 
 </details> 
