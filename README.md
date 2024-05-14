@@ -33,46 +33,46 @@
 <details> 
  <summary><b>🛠Tech Stack</b></summary><br>
 
-<!-- Languages -->
-<p style="display: flex; justify-content: center;"><b>Languages:</b>
-  <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> 
-  <!-- Java --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java" />
-  <!-- C --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" /> 
-  <!-- C++ --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /> 
-  <!-- TypeScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" /> 
-  <!-- Python --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
-  <!-- MongoDB --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30" /> 
-  <!-- MySQL --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30" /> 
-  <!-- HTML5 --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30" /> 
-  <!-- CSS --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" /> 
-</p>
+ <p style="display: flex; justify-content: center;"><b>Languages:</b></br>
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typeScript&logoColor=61DAFB)
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongoDB&logoColor=green)
+ </p>
 
 <!-- Frameworks and Libraries -->
-<p style="display: flex; justify-content: center;"><b>Frameworks and Libraries:</b>
-  <!-- Next.js --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/> 
-  <!-- React --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" /> 
-  <!-- Redux --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" /> 
-  <!-- Express.js --><img src="https://img.shields.io/badge/-Express.js-F09437?logo=Express.js&logoColor=white&style=flat" alt="Express.js" width="50" height="30" />
- <!-- Node.js --> <img src="https://img.shields.io/badge/-Node.js-4679A4?logo=Node.js&logoColor=orange&style=flat" alt="Node.js" width="50" height="30" />
-  <!-- Tailwind CSS --><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="30" height="30" /> 
-  <!-- npm --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="30" height="30" />
-  <!-- Numpy --><img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat" alt="Numpy" width="50" height="30" />
-  <!-- Pandas --><img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat" alt="Pandas" width="50" height="30" />
-  <!-- Sklearn --><img src="https://img.shields.io/badge/-Sklearn-F09437?logo=scikit-learn&logoColor=white&style=flat" alt="Sklearn" width="50" height="30" />
+<p style="display: flex; justify-content: center;"><b>Frameworks and Libraries:</b></br>
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![Express.js](https://img.shields.io/badge/-Express.js-F09437?logo=Express.js&logoColor=white&style=flat)
+- ![Node.js](https://img.shields.io/badge/-Node.js-4679A4?logo=Node.js&logoColor=orange&style=flat)
+- ![Next.js](https://img.shields.io/badge/Next.js-%2300C4CC.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+- ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4285F4?style=for-the-badge&logo=tailwindCSS&logoColor=white)
+- ![npm](https://img.shields.io/badge/npm-1261FE?style=for-the-badge&logo=npm&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat)
+- ![Numpy](https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat)
+- ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 </p>
 
 <!-- Tools and Platforms -->
-<p style="display: flex; justify-content: center;"><b>Tools and Platforms:</b>
-  <!-- Git --> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" /> 
-  <!-- GitHub --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
-  <!-- Cloudflare --><img src="https://img.shields.io/badge/-Cloudflare-4679A4?logo=Cloudflare&logoColor=orange&style=flat" alt="Cloudflare" width="50" height="30" />
-  <!-- Visual Studio Code --> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat" alt="Visual Studio Code" width="50" height="30" />
+<p style="display: flex; justify-content: center;"><b>Tools and Platforms:</b></br>
+- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 </p>
 
 <!-- Operating Systems -->
-<p style="display: flex; justify-content: center;"><b>Operating Systems:</b>
-  <!-- Windows --> <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat" alt="Windows" width="50" height="30" />
-  <!-- Linux --><img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat" alt="Linux" width="50" height="30" />
+<p style="display: flex; justify-content: center;"><b>Operating Systems:</b></br>
+- ![Windows](https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat)
+- ![Linux](https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat)
 </p>
 
 </details> 
