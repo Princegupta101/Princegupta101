@@ -45,21 +45,19 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB">
 </p>
-
 <!-- Frameworks and Libraries -->
 <p style="display: flex; justify-content: center;"><b>Frameworks and Libraries:</b></br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/-Express.js-F09437?logo=Express.js&logoColor=white&style=flat" alt="Express.js">
-<img src="https://img.shields.io/badge/-Node.js-4679A4?logo=Node.js&logoColor=orange&style=flat" alt="Node.js">
+<img src="https://img.shields.io/badge/-Express.js-F09437?logo=Express.js&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/-Node.js-4679A4?logo=Node.js&logoColor=orange" alt="Node.js">
 <img src="https://img.shields.io/badge/Next.js-%2300C4CC.svg?&style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux">
 <img src="https://img.shields.io/badge/TailwindCSS-4285F4?style=for-the-badge&logo=tailwindCSS&logoColor=white" alt="TailwindCSS">
 <img src="https://img.shields.io/badge/npm-1261FE?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white&style=flat" alt="Pandas">
-<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white&style=flat" alt="Numpy">
+<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white" alt="Numpy">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 </p>
-
 <!-- Tools and Platforms -->
 <p style="display: flex; justify-content: center;"><b>Tools and Platforms:</b></br>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -68,14 +66,11 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
 </p>
-
 <!-- Operating Systems -->
 <p style="display: flex; justify-content: center;"><b>Operating Systems:</b></br>
-<img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat" alt="Windows">
-<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black&style=flat" alt="Linux">
+<img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black" alt="Linux">
 </p>
-
-
 </details> 
 
 <!-- GitHub Analytics -->
