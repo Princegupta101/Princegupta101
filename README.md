@@ -33,7 +33,7 @@
 <details> 
  <summary><b>🛠Tech Stack</b></summary><br>
 <!-- Languages -->
-<p style="display: flex; justify-content: center;"><b>Languages:</b></br>
+<p style="display: flex; justify-content: center;"><b>Languages:</b>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typeScript&logoColor=61DAFB" alt="TypeScript">
@@ -46,7 +46,7 @@
 <img src="https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB">
 </p>
 <!-- Frameworks and Libraries -->
-<p style="display: flex; justify-content: center;"><b>Frameworks and Libraries:</b></br>
+<p style="display: flex; justify-content: center;"><b>Frameworks and Libraries:</b>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
 <img src="https://img.shields.io/badge/Express.js-F09437?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
 <img src="https://img.shields.io/badge/Node.js-4679A4?style=for-the-badge&logo=Node.js&logoColor=orange" alt="Node.js">
@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 </p>
 <!-- Tools and Platforms -->
-<p style="display: flex; justify-content: center;"><b>Tools and Platforms:</b></br>
+<p style="display: flex; justify-content: center;"><b>Tools and Platforms:</b>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
 </p>
 <!-- Operating Systems -->
-<p style="display: flex; justify-content: center;"><b>Operating Systems:</b></br>
+<p style="display: flex; justify-content: center;"><b>Operating Systems:</b>
 <img src="https://img.shields.io/badge/Windows-0F7BCF?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/Linux-EDBD2B?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
 </p>
