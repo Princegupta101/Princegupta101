@@ -47,15 +47,15 @@
 </p>
 <!-- Frameworks and Libraries -->
 <p style="display: flex; justify-content: center;"><b>Frameworks and Libraries:</b></br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/-Express.js-F09437?logo=Express.js&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/-Node.js-4679A4?logo=Node.js&logoColor=orange" alt="Node.js">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
+<img src="https://img.shields.io/badge/Express.js-F09437?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/Node.js-4679A4?style=for-the-badge&logo=Node.js&logoColor=orange" alt="Node.js">
 <img src="https://img.shields.io/badge/Next.js-%2300C4CC.svg?&style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux">
 <img src="https://img.shields.io/badge/TailwindCSS-4285F4?style=for-the-badge&logo=tailwindCSS&logoColor=white" alt="TailwindCSS">
 <img src="https://img.shields.io/badge/npm-1261FE?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-<img src="https://img.shields.io/badge/-Pandas-150455?logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/-Numpy-0E7ACE?logo=numpy&logoColor=white" alt="Numpy">
+<img src="https://img.shields.io/badge/Pandas-150455?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Numpy-0E7ACE?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
 </p>
 <!-- Tools and Platforms -->
@@ -68,8 +68,8 @@
 </p>
 <!-- Operating Systems -->
 <p style="display: flex; justify-content: center;"><b>Operating Systems:</b></br>
-<img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white" alt="Windows">
-<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/Windows-0F7BCF?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Linux-EDBD2B?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
 </p>
 </details> 
 
