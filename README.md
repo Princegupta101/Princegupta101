@@ -32,68 +32,59 @@
 <!-- Icons representing the tech stack -->
 <details> 
  <summary><b>🛠Tech Stack</b></summary><br>
-<!-- Languages -->
-<!-- <b>Languages:</b> -->
-<p style="display: flex; justify-content: center;">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typeScript&logoColor=61DAFB" alt="TypeScript">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB">
-  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
-<img src="https://img.shields.io/badge/Express.js-F09437?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/Node.js-4679A4?style=for-the-badge&logo=Node.js&logoColor=orange" alt="Node.js">
-<img src="https://img.shields.io/badge/Next.js-%2300C4CC.svg?&style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux">
-<img src="https://img.shields.io/badge/TailwindCSS-4285F4?style=for-the-badge&logo=tailwindCSS&logoColor=white" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/npm-1261FE?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/55057608/215124769-4e28bb35-6b77-4572-8769-42423bbf3803.png" alt="C" width="40" height="40"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215125719-b1eb21db-cd5d-4b96-a962-b13afef2fde5.png" alt="C++" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"alt="Java" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215138834-6c7fc9f6-1ee1-464e-ad98-c5ae0f8dcde0.png" alt="JavaScript" width="40" height="40"/>
+  &nbsp;
+  <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/d9e5040e-31c0-451f-9312-40e59be3e748" alt="TypeScript" width="40" height="40"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215135875-f3a0f9ee-083e-4090-9d12-6a98bda40e18.png" alt="HTML" width="40" height="40"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215132531-c2bf186e-e6cf-4802-89df-093ba13248d3.png" alt="CSS" width="40" height="40"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215137273-32983d5d-fbdf-4f54-9afb-50e70c0c7696.png" alt="Sass" width="60" height="40"/>
+   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /> 
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215129778-ca0e6263-095d-4bf6-a3bf-43e99e4413b0.png" alt="BootStrap" width="40" height="40"/>
+   &nbsp;
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215139554-450c13fc-f06f-4e5d-a29e-4acea5ce82f2.png" alt="React.js" width="40" height="40"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215172117-1c6784a7-12b4-4917-954f-837e54b5e476.png" alt="Redux" width="40" height="40"/>
+  &nbsp;
+  <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/9bf28dec-af9a-4371-b01e-2182ac41e01d" alt="Node.js" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" /> 
+  &nbsp;
+  <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/c15f9d9d-a087-46fb-8f3f-64b48d2e9bf5" alt="MongoDB" width="40" height="40"/>
+  &nbsp;
+  <img src="https://github.com/kashishahuja2002/kashishahuja2002/assets/55057608/b653003c-4a24-4d20-8619-914f5f84cb00" alt="SQL" width="40" height="40"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215184579-9d4d5859-5dee-4eae-b581-714204c30f64.png" alt="Git" width="40" height="40"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215185998-d93c21d2-1a25-451f-bd9e-dbd3f0cc9de0.png" alt="GitHub" width="40" height="40"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/55057608/215184827-93ec1b83-a9f6-47bd-aece-50c89c7e175b.png" alt="VS Code" width="40" height="40"/>
+<br/>
 <img src="https://img.shields.io/badge/Pandas-150455?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/Numpy-0E7ACE?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
 <img src="https://img.shields.io/badge/Windows-0F7BCF?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/Linux-EDBD2B?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
 </p>
-<!-- Frameworks and Libraries -->
-<!-- <b>Frameworks and Libraries:</b>
-<p style="display: flex; justify-content: center;">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
-<img src="https://img.shields.io/badge/Express.js-F09437?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/Node.js-4679A4?style=for-the-badge&logo=Node.js&logoColor=orange" alt="Node.js">
-<img src="https://img.shields.io/badge/Next.js-%2300C4CC.svg?&style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux">
-<img src="https://img.shields.io/badge/TailwindCSS-4285F4?style=for-the-badge&logo=tailwindCSS&logoColor=white" alt="TailwindCSS">
-<img src="https://img.shields.io/badge/npm-1261FE?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
-<img src="https://img.shields.io/badge/Pandas-150455?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/Numpy-0E7ACE?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-</p> -->
-<!-- Tools and Platforms -->
-<!-- <b>Tools and Platforms:</b>
-<p style="display: flex; justify-content: center;">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
-</p> -->
-<!-- Operating Systems -->
-<!-- <b>Operating Systems:</b>
-<p style="display: flex; justify-content: center;">
-<img src="https://img.shields.io/badge/Windows-0F7BCF?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
-<img src="https://img.shields.io/badge/Linux-EDBD2B?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
-</p> -->
 </details> 
 
 <!-- GitHub Analytics -->
