@@ -33,7 +33,7 @@
 <details> 
  <summary><b>🛠Tech Stack</b></summary><br>
 <!-- Languages -->
-<b>Languages:</b>
+<!-- <b>Languages:</b> -->
 <p style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -45,9 +45,28 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 <img src="https://img.shields.io/badge/MongoDB-092E20?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB">
+  
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
+<img src="https://img.shields.io/badge/Express.js-F09437?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/Node.js-4679A4?style=for-the-badge&logo=Node.js&logoColor=orange" alt="Node.js">
+<img src="https://img.shields.io/badge/Next.js-%2300C4CC.svg?&style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux">
+<img src="https://img.shields.io/badge/TailwindCSS-4285F4?style=for-the-badge&logo=tailwindCSS&logoColor=white" alt="TailwindCSS">
+<img src="https://img.shields.io/badge/npm-1261FE?style=for-the-badge&logo=npm&logoColor=white" alt="npm">
+<img src="https://img.shields.io/badge/Pandas-150455?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Numpy-0E7ACE?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+<img src="https://img.shields.io/badge/Windows-0F7BCF?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
+<img src="https://img.shields.io/badge/Linux-EDBD2B?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
 </p>
 <!-- Frameworks and Libraries -->
-<b>Frameworks and Libraries:</b>
+<!-- <b>Frameworks and Libraries:</b>
 <p style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> 
 <img src="https://img.shields.io/badge/Express.js-F09437?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
@@ -59,22 +78,22 @@
 <img src="https://img.shields.io/badge/Pandas-150455?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/Numpy-0E7ACE?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-</p>
+</p> -->
 <!-- Tools and Platforms -->
-<b>Tools and Platforms:</b>
+<!-- <b>Tools and Platforms:</b>
 <p style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
-</p>
+</p> -->
 <!-- Operating Systems -->
-<b>Operating Systems:</b>
+<!-- <b>Operating Systems:</b>
 <p style="display: flex; justify-content: center;">
 <img src="https://img.shields.io/badge/Windows-0F7BCF?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/Linux-EDBD2B?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
-</p>
+</p> -->
 </details> 
 
 <!-- GitHub Analytics -->
