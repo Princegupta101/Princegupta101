@@ -12,7 +12,7 @@
 </div>
 
 <!-- Brief introduction -->
-<h3 align="center">A pre-final year CSE Undergrad at SRIST Jabalpur, aspiring Software Engineer, and Programming enthusiast.</h3>
+<h3 align="center">A final year CSE Undergrad at SRIST Jabalpur, aspiring Software Engineer, and Programming enthusiast.</h3>
 
 <!-- Divider line -->
 <p align="center">
