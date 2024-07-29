@@ -5,7 +5,7 @@
   <h1>Hi there! 👋 I'm Prince Gupta</h1>
   <!-- Links to social profiles -->
   <p>
-    <a href="https://linkedin.com/in/prince-gupta-0201b824b">LinkedIn</a> - 
+    <a href="https://www.linkedin.com/in/princegupta101/">LinkedIn</a> - 
     <a href="https://portfolio-lemon-zeta-11.vercel.app/">Portfolio</a> -
     <a href="https://www.leetcode.com/pgupta28349">Leetcode</a>
   </p> 
