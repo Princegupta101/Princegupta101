@@ -1,12 +1,11 @@
 <!--- Body Begins -->
-<!-- Profile views counter -->
-</br>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=princegupta101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
-</p>
 <!-- Center-aligned header -->
 <div align="center">
   <h1>Hi there! 👋 I'm Prince Gupta</h1>
+    <!-- Profile views counter -->
+    <p align="right"> 
+      <img src="https://komarev.com/ghpvc/?username=princegupta101&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+    </p>
   <!-- Links to social profiles -->
   <p>
     <a href="https://www.linkedin.com/in/princegupta101/">LinkedIn</a> - 
@@ -105,6 +104,8 @@
     <!-- Histogram of Commits -->
     <img align="center" height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=princegupta101&theme=github_dark" alt="Histogram of Commits" /></br>
   </div>
+  
+  </br>
 <p align="center">
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊</b>
 </p>
