@@ -32,8 +32,9 @@
 - 📫 Reach me: **pgupta28349@gmail.com**
  
 
-<!-- Icons representing the tech stack -->
-<details> 
+<!-- Icons representing the tech stack  <details> -->
+
+
  <summary><b>🛠Tech Stack</b></summary><br>
 
 <p align="center">
@@ -88,7 +89,7 @@
 <img src="https://img.shields.io/badge/Windows-0F7BCF?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows">
 <img src="https://img.shields.io/badge/Linux-EDBD2B?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
 </p>
-</details> 
+<!-- </details>  -->
 
 <!-- GitHub Analytics -->
 <summary><b>⚙️ GitHub Analytics</b></summary><br>
