@@ -10,7 +10,7 @@
   <p>
     <a href="https://www.linkedin.com/in/princegupta101/">LinkedIn</a> - 
     <a href="https://princegupta101.me/">Portfolio</a> -
-    <a href="https://www.leetcode.com/pgupta28349">Leetcode</a>
+    <a href="https://www.leetcode.com/princegupta101/">Leetcode</a>
   </p> 
 </div>
 
