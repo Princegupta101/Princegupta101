@@ -24,7 +24,7 @@
 <!-- List of personal information -->
 👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" width="280px" height="200px" align="right"> 
 
-- 🌱 Mastering Next.js & TypeScript for robust web apps.
+<!-- - 🌱 Mastering Next.js & TypeScript for robust web apps.-->
 - 👯 Collaborate on imaginative Next.js projects!
 - 💬 Ask about dynamic Full Stack apps—MERN to Next.js.
 - 🎓 Committed to continuous learning & tech exploration.
