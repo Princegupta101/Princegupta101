@@ -53,8 +53,6 @@
   &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215132531-c2bf186e-e6cf-4802-89df-093ba13248d3.png" alt="CSS" width="40" height="40"/>
   &nbsp;
-  <img src="https://user-images.githubusercontent.com/55057608/215137273-32983d5d-fbdf-4f54-9afb-50e70c0c7696.png" alt="Sass" width="60" height="40"/>
-   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" /> 
   &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215129778-ca0e6263-095d-4bf6-a3bf-43e99e4413b0.png" alt="BootStrap" width="40" height="40"/>
