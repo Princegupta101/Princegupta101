@@ -22,7 +22,7 @@
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
 </p>
 <!-- List of personal information -->
-👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" width="240px" height="150px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" width="240px" height="180px" align="right"> 
 
 <!-- - 🌱 Mastering Next.js & TypeScript for robust web apps.-->
 - 👯 Collaborate on imaginative Next.js projects!
