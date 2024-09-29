@@ -57,7 +57,6 @@
   &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215129778-ca0e6263-095d-4bf6-a3bf-43e99e4413b0.png" alt="BootStrap" width="40" height="40"/>
    &nbsp;
-  <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/> 
   &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215139554-450c13fc-f06f-4e5d-a29e-4acea5ce82f2.png" alt="React.js" width="40" height="40"/>
@@ -77,7 +76,6 @@
   <img src="https://user-images.githubusercontent.com/55057608/215185998-d93c21d2-1a25-451f-bd9e-dbd3f0cc9de0.png" alt="GitHub" width="40" height="40"/>
   &nbsp;
   <img src="https://user-images.githubusercontent.com/55057608/215184827-93ec1b83-a9f6-47bd-aece-50c89c7e175b.png" alt="VS Code" width="40" height="40"/>
-<br/>
 <img src="https://img.shields.io/badge/Pandas-150455?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 <img src="https://img.shields.io/badge/Numpy-0E7ACE?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
