@@ -15,9 +15,7 @@
 </div>
 
 <!-- Brief introduction -->
-<h3 align="center">
-Software Engineer at Technawab | Full Stack Developer | Programming Enthusiast
-</h3>
+<h3 align="center">Software Engineer at Technawab | Full Stack Developer | Programming Enthusiast</h3>
 <!-- Divider line -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
