@@ -9,7 +9,7 @@
   <!-- Links to social profiles -->
   <p>
     <a href="https://www.linkedin.com/in/princegupta101/">LinkedIn</a> - 
-    <a href="https://princegupta101.info/">Portfolio</a> -
+    <a href="https://princegupta101.dev/">Portfolio</a> -
     <a href="https://leetcode.com/princegupta101/">Leetcode</a>
   </p> 
 </div>
